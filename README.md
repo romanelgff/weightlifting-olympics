@@ -1,7 +1,7 @@
 # Bokeh weightlifting web application
 Bokeh (Python) web application showing the evolution of weightlifting competitions in Olympic Games, from 1960 to 2016.
 
-**French:**
+# French description
 
 Dans cette application Bokeh on s'intéressera aux compétitions d'haltérophilie de 1960 à 2016. Les données ont été sélectionnées de façon à ce que l'on ne se retrouve qu'avec les athlètes médaillés (Bronze, Argent, Or). Deux onglets sont définis dans l'application. Le premier présente un graphique de l'évolution du poids des athlètes en haltérophilie, en  fonction du type de médaille gagnée, de 1960 à 2016, groupés selon qu'ils soient hommes ou femmes. On remarque que les femmes ont intégré très tard les JO dans ce domaine, à l'an  2000 seulement ! Nous avons donc malheureusement peu de données pour elles. Il est possible de choisir à la droite du graphe le type de médaille souhaité pour la représentation, ainsi que de sélectionner la représentation pour les hommes, ou que pour les femmes en cliquant sur les cases à gauche de 'F' (femme) et 'H' (homme). Lorsqu'un seul genre est sélectionné, une droite de régression linéaire apparaîtra pour chaque nouveau type de médaille choisi, ainsi que l'équation associée dans la légende. Finalement, en passant la  souris sur les différents cercles du graphique, les informations suivantes s'affichent à l'écran: l'année, les pays participant cette année-là, la taille moyenne des athlètes et  leur poids moyen.
 
@@ -13,7 +13,7 @@ Cet onglet met en avant les pays dominants en haltérophilie, dont l'Union Sovi�
 
 Vous avez désormais toutes les cartes en main pour utiliser cette application Bokeh ! Bon visionnage.
 
-**English:**
+# English description
 
 In this Bokeh application, we are interested in weightlifting competitions from 1960 to 2016. The data were selected so that only the Medalist athletes (Bronze, Silver, Gold). Two tabs are defined in the application. The first one presents a graph of the evolution of the weight of athletes in weightlifting, in depending on the type of medal won, from 1960 to 2016, grouped according to whether they are male or female. We note that women have very late integrated the Olympic Games in this field, in the year 2000 only! So unfortunately we have little data for them. It is possible to choose to the right of the graph the type of medal desired for the representation, as well as selecting the representation for men, or as for women by clicking on the boxes on the left of 'F' (woman) and 'H' (man). When only one gender is selected, a linear regression line will appear for each new type of medal chosen, as well as the associated equation in the legend. Finally, passing the  the following information is displayed on the screen: the year, the countries participating that year, the average size of the athletes and 
 their average weight.
